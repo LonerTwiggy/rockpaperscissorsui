@@ -1,0 +1,1 @@
+This is an updated version of the Rock, Paper, Scissors game project from The Odin Project. The original version played 5 rounds of the game in the dev console. This updated version uses HTML, CSS, and JavaScript to create a user interface, scoreboard, as well well as some styling to create a functional, in-browser game of Rock Paper Scissors.
